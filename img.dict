@@ -1,0 +1,4 @@
+# parser.c uchun AFL++ lug'ati
+magic="IMG1"
+zero="\x00"
+max="\xff"
